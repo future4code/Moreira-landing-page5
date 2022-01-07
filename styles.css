@@ -86,3 +86,68 @@ img{
     margin: 10px 0px;
     border-radius: 5px;
 }
+/* Inicio footer */
+ 
+#contatos h3{
+    width: 270px;
+    margin: 0 auto;
+    text-align: center;
+    margin: 25px 0px 20px;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+}
+#contatos{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#box-contatos{
+    display: flex;
+    justify-content: space-evenly
+}
+
+#box-contatos img{
+    width: 40px;
+}
+
+.btn-cadastro{
+    background-color: black;
+    color: white;
+    height: 50px;
+    width: 120px;
+    border:none;
+    margin: 10px 0px;
+    border-radius: 5px;
+    
+}
+.txt_cadastro{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.btn-cadastro{
+    margin: 30px 0px;
+}
+#formasPagamento h3{
+    text-align: center;
+    margin: 10px 0px;
+    padding: 20px;
+}
+
+#img_pagamento img{
+    max-width: 90vw;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+#bgt_pagamento{
+    background-color: #dae5e8;
+}
+#rodape{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
