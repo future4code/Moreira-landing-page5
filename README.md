@@ -10,7 +10,7 @@
 <p>Antes de mais nada, algumas informações técnicas sobre o projeto, estarão abaixo:</p>
 
 <p>Status do Projeto: Ativo/Funcionando</p>
-<p>Acesso ao Projeto: >link surge futuramente</p>
+<p>Acesso ao Projeto: >torpid-leg.surge.sh</p>
 <p>Tecnologias Utilizadas: HTML e CSS</p>
 <p>Pessoas Desenvolvedoras: Arthur Kelvim(Desenvolvedor Front-End), Barbara Zaú(Desenvolvedora Front-END) e Déborah Luna</p>
 <p>Conclusao: Recebemos uma tarefa onde tinhamos de concluir um site de uma Empresa de Tênis. O projeto foi algo simples onde usamos conteúdos que aprendemos em nossas aulas no curso na Labenu, sem deixar o lado desafiador. Construímos uma estrutura simples, mas bem feita. Precisavamos sermos técnicos e também críticos, pois o projeto exigia ter um conteúdo responsivo e focado em "Mobile First". Acredito sim que concluímos o objetivo com êxito. </p>
