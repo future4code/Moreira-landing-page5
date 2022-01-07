@@ -7,23 +7,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>4Comfort</title>
     <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 </head>
 
 <body>
     <header>
-        <img src="./imagens/4comfort.png" alt="Logo-4Comfort">
-        <nav>
-            <a href="#sobre">
-                <p> Sobre</p>
-            </a>
-            <a href="#produtos">
-                <p>Produtos</p>
-            </a>
-            <a href="#contatos">
-                <p>Contatos</p>
-            </a>
+
+        <nav class="menu">
+            <a class="button-close">x</a>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Quem Somos</a></li>
+                <li><a href="#">Produtos</a></li>
+                <li><a href="#">Contato</a></li>
+            </ul>
         </nav>
+
+        <button class="button-menu"><i class="fa fa-bars fa-3x"></i></button>
+
+        <img src="./imagens/4comfort.png" alt="Logo-4Comfort">
 
     </header>
 
@@ -141,7 +144,15 @@
     </footer>
 
 
-
+<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+<script>
+    $(".button-menu").click(function(){
+            $(".menu").show();
+    });
+    $(".button-close").click(function(){
+            $(".menu").hide();
+    });
+</script>
 </body>
 
 
