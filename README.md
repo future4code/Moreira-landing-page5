@@ -38,8 +38,21 @@ envolver todo nosso conteúdo. Dentro de cada sessão, como filhas, contém em o
 
 <p>Todas essas tags segue também para as outras 3 sessões em seguidas, ficando como vocês podem ver a baixo: </p>
 
+  
+<img width="1280" alt="Captura de Tela 2022-01-07 às 22 40 02" src="https://user-images.githubusercontent.com/88689419/148626689-40d35184-bc4d-4b73-a7a4-1c0bf818a7a2.png">
+<img width="1280" alt="Captura de Tela 2022-01-07 às 22 40 11" src="https://user-images.githubusercontent.com/88689419/148626694-1270b4fc-44e7-4e14-8f69-6801bcb1cc96.png">
+<img width="1280" alt="Captura de Tela 2022-01-07 às 22 40 17" src="https://user-images.githubusercontent.com/88689419/148626698-0f50267d-fca3-48b5-86a2-73329e2d874b.png">
+<img width="1280" alt="Captura de Tela 2022-01-07 às 22 40 25" src="https://user-images.githubusercontent.com/88689419/148626701-d13b97d6-a893-4424-9876-c36ef8a687f3.png">
+<img width="1280" alt="Captura de Tela 2022-01-07 às 22 40 33" src="https://user-images.githubusercontent.com/88689419/148626706-ef72639a-2937-4df8-93b5-3e43a9113f2c.png">
+<img width="1280" alt="Captura de Tela 2022-01-07 às 22 40 39" src="https://user-images.githubusercontent.com/88689419/148626708-60d550d5-6a63-40ee-8639-8f72354d7735.png">
+<img width="1280" alt="Captura de Tela 2022-01-07 às 22 40 50" src="https://user-images.githubusercontent.com/88689419/148626712-5395767c-d806-4c87-b1f4-795f9725d06c.png">
+<img width="1280" alt="Captura de Tela 2022-01-07 às 22 40 59" src="https://user-images.githubusercontent.com/88689419/148626716-40844f75-81e1-4f87-ae55-8ae8b24d3360.png">
+<img width="1280" alt="Captura de Tela 2022-01-07 às 22 41 02" src="https://user-images.githubusercontent.com/88689419/148626718-2f3a5277-f57d-43ca-82fa-c97a15347a3a.png">
+<img width="1280" alt="Captura de Tela 2022-01-07 às 22 41 06" src="https://user-images.githubusercontent.com/88689419/148626722-d6499a55-b5bc-49c8-8adb-78b1f946fcbc.png">
+<img width="1280" alt="Captura de Tela 2022-01-07 às 22 41 11" src="https://user-images.githubusercontent.com/88689419/148626725-9e6ee788-7825-44de-aa4d-93ddbf09b42f.png">
+<img width="1280" alt="Captura de Tela 2022-01-07 às 22 41 20" src="https://user-images.githubusercontent.com/88689419/148626729-f48a8651-8ea8-410d-9ee0-cd0a7496a83f.png">
+<img width="1280" alt="Captura de Tela 2022-01-07 às 22 41 30" src="https://user-images.githubusercontent.com/88689419/148626733-b26d0b27-735e-46e1-a4cd-68d10ebc29fd.png">
 
-![Detalhe uma parte da sessão de Produtos](imagens/image-produtos.PNG)
 
 <p>Bom, a parte do contéudo principal era isto e assim fico por aqui, grato a todos, por estarem fazendo parte de mais um grande conquista nossa, e se puderem coloborar com algo fiquem a vontade para escrever algo pra gente. Até mais. </p>
 
