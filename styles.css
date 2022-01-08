@@ -154,6 +154,7 @@ li a{
     border:none;
     margin: 10px 0px;
     border-radius: 5px;
+    cursor: pointer;
 }
 /* Inicio footer */
  
@@ -187,6 +188,7 @@ li a{
     border:none;
     margin: 10px 0px;
     border-radius: 5px;
+    cursor: pointer;
     
 }
 .txt_cadastro{
@@ -363,6 +365,18 @@ li a{
         margin: 30px 0px;
         width: 240px;
         font-size: large;
+        cursor: pointer;
+    }
+
+    .btn-produtos{
+        background-color: black;
+        color: white;
+        height: 50px;
+        width: 120px;
+        border:none;
+        margin: 10px 0px;
+        border-radius: 5px;
+        cursor: pointer;
     }
 
     #box-contatos a img:hover{
