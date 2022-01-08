@@ -12,12 +12,15 @@
 </head>
 
 <body>
-    <header>
+    <header class="header-mobile">
+        <button class="button-menu"><i class="fa fa-bars fa-3x"></i></button>
 
-        <nav class="menu">
+        <img src="./imagens/4comfort.png" alt="Logo-4Comfort">
+            
+        <nav class="menu-mobile">
             <a class="button-close">x</a>
             <ul>
-                <li class="linhas"><a href="">____________________</a></li>
+                <li class="linha-cima"><a href="">____________________</a></li>
                 <li><a href="#">Home</a></li>
                 <li><a href="#sobre">Quem Somos</a></li>
                 <li><a href="#produtos">Produtos</a></li>
@@ -25,12 +28,21 @@
                 <li class="linhas"><a href="">____________________</a></li>
             </ul>
         </nav>
-
-        <button class="button-menu"><i class="fa fa-bars fa-3x"></i></button>
-
-        <img src="./imagens/4comfort.png" alt="Logo-4Comfort">
-
     </header>
+
+<header class="header-desktop">
+    
+    <img src="./imagens/4comfort.png" alt="Logo-4Comfort">
+    <nav class="menu-desktop">
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#sobre">Quem Somos</a></li>
+            <li><a href="#produtos">Produtos</a></li>
+            <li><a href="#contatos">Contatos</a></li>
+        </ul>
+    </nav>
+</header>
+
 
     <main>
         <section class="fundo-bg">
@@ -155,10 +167,23 @@
 <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
 <script>
     $(".button-menu").click(function(){
-            $(".menu").show();
+        $(".menu-mobile").show();
+        $(".button-menu").hide();
+        $(".button-close").show();
+        $("header img").hide();
     });
+
     $(".button-close").click(function(){
-            $(".menu").hide();
+            $(".menu-mobile").hide();
+            $(".button-menu").show();
+            $("header img").show();
+            $(".button-close").hide();
+    });
+
+    $("li a").click(function(){
+        $(".menu-mobile").hide();
+        $(".button-menu").show();
+        $("header img").show();
     });
 </script>
 
