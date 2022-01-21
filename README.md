@@ -54,7 +54,6 @@ envolver todo nosso conteúdo. Dentro de cada sessão, como filhas, contém em o
 <img width="1280" alt="Captura de Tela 2022-01-07 às 22 41 30" src="https://user-images.githubusercontent.com/88689419/148626733-b26d0b27-735e-46e1-a4cd-68d10ebc29fd.png">
   
 
-![ArthurFT](https://user-images.githubusercontent.com/85260996/150585832-032ccdc2-2aca-4a76-b9b4-3f7de48ed5bf.jpeg)
 
 
 <p>Bom, a parte do contéudo principal era isto e assim fico por aqui, grato a todos, por estarem fazendo parte de mais um grande conquista nossa, e se puderem coloborar com algo fiquem a vontade para escrever algo pra gente. Até mais. </p>
